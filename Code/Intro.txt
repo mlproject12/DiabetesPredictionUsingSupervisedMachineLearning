@@ -1,1 +1,2 @@
 To execute this file, try to open the ipynb file in either jupyter / vscode / google collab.
+If you don't wanna know just see how the output of the notebook, just open .html file in any browser. This doesn't needs a machine learning executable platform.
